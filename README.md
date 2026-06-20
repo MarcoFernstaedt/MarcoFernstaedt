@@ -1,5 +1,3 @@
-<img src="./assets/marco-fernstaedt.jpg" alt="Marco Fernstaedt professional headshot" width="210" align="right" />
-
 # Marco Fernstaedt
 
 **IT Support | Service Desk | Systems-minded Software Engineering Student**
