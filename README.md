@@ -1,42 +1,41 @@
 # Marco Fernstaedt
 
-**IT Support | Service Desk | Systems-minded Software Engineering Student**
+**IT Engineer focused on support, systems, automation, and secure software operations**
 
-Arizona-based technologist focused on practical support, troubleshooting, automation, and accessible software. I like work where users need clear answers, systems need to stay online, and technical problems need to be broken down fast.
+Arizona-based technologist who works across user support, infrastructure, automation, and software. I like work where technical problems need to be diagnosed clearly, systems need to stay reliable, and improvements need to be documented so the next person can move faster.
 
 ## What I bring
 
-- **Help desk and IT support mindset:** user-first troubleshooting, ticket-ready documentation, clear escalation notes, and calm communication under pressure.
-- **Systems fundamentals:** Linux, Windows, DNS, networking basics, SSH, Tailscale, Docker, VPS operations, Pi-hole, and service monitoring.
-- **Automation:** Python, JavaScript, shell scripting, n8n workflows, API integrations, and repeatable checks for common operational tasks.
-- **Web development:** HTML, CSS, JavaScript, React/Next.js/Astro exposure, responsive UI, deployment, and accessibility-first implementation.
-- **Reliability habits:** verify before changing, document what changed, keep secrets out of code, and prefer simple maintainable systems over flashy complexity.
+- **Operational troubleshooting:** calm user support, clear ticket notes, root-cause thinking, escalation-ready documentation, and follow-through until the issue is actually resolved.
+- **Systems fundamentals:** Windows, Linux, DNS, networking basics, SSH, Tailscale, Docker, VPS operations, Pi-hole, monitoring, and service health checks.
+- **Automation and tooling:** Python, JavaScript, Bash, APIs, n8n workflows, and small utilities that turn repeated manual checks into repeatable processes.
+- **Software delivery:** web projects, REST APIs, Git/GitHub workflows, deployment, accessibility-first UI, and maintainable code over flashy complexity.
+- **Security and reliability habits:** verify before changing, protect credentials, document what changed, read logs carefully, and prefer simple systems that can be supported under pressure.
 
 ## Current focus
 
-I am targeting entry-level and junior roles where technical support, service desk operations, troubleshooting, and software fundamentals overlap.
+I am building practical engineering range across IT operations, service reliability, security monitoring, and software support. My best work sits at the intersection of troubleshooting, systems thinking, automation, and clear communication.
 
-Good-fit roles:
+Good-fit environments include:
 
-- IT Support Specialist
-- Help Desk Technician
-- Service Desk Analyst
-- Technical Support Specialist
-- Junior Web / Software Support roles
+- Technical support and service desk teams that value strong documentation and ownership
+- Infrastructure and reliability teams that need practical monitoring, scripting, and incident follow-through
+- Security operations teams that need careful log review, escalation discipline, and technical curiosity
+- Software teams that need someone comfortable with users, deployments, debugging, and accessible implementation
 
 ## Selected work themes
 
-- **Personal homelab operations:** VPS, Tailnet, Pi-hole DNS, Docker-hosted services, monitoring, and private dashboards.
-- **Portfolio and web projects:** recruiter-facing portfolio, public deployments, and accessibility-focused UI work.
-- **Automation and tooling:** scripts and workflows that reduce repeated manual checks and improve system visibility.
+- **Homelab operations:** VPS, Tailnet, Pi-hole DNS, Docker-hosted services, monitoring, and private dashboards.
+- **Support-ready automation:** scripts and workflows that reduce repeated manual checks and make system state easier to verify.
+- **Web and software projects:** recruiter-facing portfolio, public deployments, responsive UI, APIs, and accessibility-focused implementation.
 - **Accessible technology:** building and testing with screen-reader and low-vision usability in mind.
 
 ## Technical stack
 
-**Support and systems:** Windows, Linux, DNS, SSH, Tailscale, Docker, Uptime Kuma, Pi-hole, basic networking  
+**Systems:** Windows, Linux, DNS, SSH, Tailscale, Docker, Uptime Kuma, Pi-hole, basic networking  
 **Programming:** Python, JavaScript, TypeScript, HTML, CSS, Bash  
-**Web:** React, Next.js, Astro, Node.js, REST APIs  
-**Tools:** Git, GitHub, VS Code, n8n, Vercel, command-line workflows  
+**Web and APIs:** React, Next.js, Astro, Node.js, REST APIs, Vercel  
+**Operations:** Git, GitHub, VS Code, n8n, logs, monitoring, documentation, command-line workflows  
 
 ## Links
 
@@ -45,4 +44,4 @@ Good-fit roles:
 
 ---
 
-I am building toward reliable IT operations, support excellence, and practical software systems that solve real problems.
+I build reliable technical systems, support users clearly, and turn recurring problems into documented, repeatable solutions.
