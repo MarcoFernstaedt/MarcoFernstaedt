@@ -12,17 +12,6 @@ Arizona-based technologist who works across user support, infrastructure, automa
 - **Software delivery:** web projects, REST APIs, Git/GitHub workflows, deployment, accessibility-first UI, and maintainable code over flashy complexity.
 - **Security and reliability habits:** verify before changing, protect credentials, document what changed, read logs carefully, and prefer simple systems that can be supported under pressure.
 
-## Current focus
-
-I am building practical engineering range across IT operations, service reliability, security monitoring, and software support. My best work sits at the intersection of troubleshooting, systems thinking, automation, and clear communication.
-
-Good-fit environments include:
-
-- Technical support and service desk teams that value strong documentation and ownership
-- Infrastructure and reliability teams that need practical monitoring, scripting, and incident follow-through
-- Security operations teams that need careful log review, escalation discipline, and technical curiosity
-- Software teams that need someone comfortable with users, deployments, debugging, and accessible implementation
-
 ## Selected work themes
 
 - **Homelab operations:** VPS, Tailnet, Pi-hole DNS, Docker-hosted services, monitoring, and private dashboards.
