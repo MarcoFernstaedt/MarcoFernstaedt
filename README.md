@@ -1,36 +1,32 @@
 # Marco Fernstaedt
 
-**IT Engineer focused on support, systems, automation, and secure software operations**
+**IT Engineer | Automation | Accessible Systems | Reliable Software Operations**
 
-Arizona-based technologist who works across user support, infrastructure, automation, and software. I like work where technical problems need to be diagnosed clearly, systems need to stay reliable, and improvements need to be documented so the next person can move faster.
+Arizona-based engineer working across technical support, infrastructure, automation, and full-stack software. I build systems that are understandable under pressure: observable, documented, accessible, secure by default, and backed by repeatable verification.
 
-## What I bring
+## Selected engineering work
 
-- **Operational troubleshooting:** calm user support, clear ticket notes, root-cause thinking, escalation-ready documentation, and follow-through until the issue is actually resolved.
-- **Systems fundamentals:** Windows, Linux, DNS, networking basics, SSH, Tailscale, Docker, VPS operations, Pi-hole, monitoring, and service health checks.
-- **Automation and tooling:** Python, JavaScript, Bash, APIs, n8n workflows, and small utilities that turn repeated manual checks into repeatable processes.
-- **Software delivery:** web projects, REST APIs, Git/GitHub workflows, deployment, accessibility-first UI, and maintainable code over flashy complexity.
-- **Security and reliability habits:** verify before changing, protect credentials, document what changed, read logs carefully, and prefer simple systems that can be supported under pressure.
+- **[Obsidian Knowledge Backbone](https://github.com/MarcoFernstaedt/obsidian-knowledge-backbone)** — network-free Python and SQLite FTS5 retrieval for Markdown and Obsidian vaults, with exact source citations, privacy boundaries, tests, and CI.
+- **[AI Image-to-Audio Accessibility Platform](https://github.com/MarcoFernstaedt/image_accessibility_tool)** — blind-first Next.js application that converts images into spoken descriptions with keyboard and screen-reader support.
+- **[Imperator Fitness Coach](https://github.com/MarcoFernstaedt/imperator-fitness-coach)** — dependency-free, private-by-default Python CLI with deterministic parsing, SQLite storage, conservative summaries, safety boundaries, tests, and CI.
+- **[Software Engineering Portfolio](https://github.com/MarcoFernstaedt/se_portfolio_site)** — accessible Next.js portfolio and approval-gated technical publishing workflow.
 
-## Selected work themes
+## Engineering approach
 
-- **Homelab operations:** VPS, Tailnet, Pi-hole DNS, Docker-hosted services, monitoring, and private dashboards.
-- **Support-ready automation:** scripts and workflows that reduce repeated manual checks and make system state easier to verify.
-- **Web and software projects:** recruiter-facing portfolio, public deployments, responsive UI, APIs, and accessibility-focused implementation.
-- **Accessible technology:** building and testing with screen-reader and low-vision usability in mind.
+- Diagnose the actual failure before changing the system.
+- Prefer simple, modular components with explicit interfaces and ownership.
+- Treat accessibility, security, observability, and rollback as delivery requirements.
+- Use tests, CI, source-grounded documentation, and direct runtime proof.
+- Keep credentials, personal data, and private infrastructure out of public artifacts.
 
-## Technical stack
+## Technical range
 
-**Systems:** Windows, Linux, DNS, SSH, Tailscale, Docker, Uptime Kuma, Pi-hole, basic networking  
-**Programming:** Python, JavaScript, TypeScript, HTML, CSS, Bash  
-**Web and APIs:** React, Next.js, Astro, Node.js, REST APIs, Vercel  
-**Operations:** Git, GitHub, VS Code, n8n, logs, monitoring, documentation, command-line workflows  
+- **Systems and operations:** Windows, Linux, DNS, SSH, Tailscale, Docker, VPS operations, monitoring, service health, and incident troubleshooting
+- **Software and automation:** Python, TypeScript, JavaScript, Bash, React, Next.js, Astro, Node.js, REST APIs, SQLite, n8n, Git, and GitHub Actions
+- **Quality:** accessibility-first UI, screen-reader workflows, test automation, CI/CD, secure configuration, logging, and technical documentation
 
 ## Links
 
 - Portfolio: [marcofernstaedt.com](https://marcofernstaedt.com)
-- GitHub: [github.com/MarcoFernstaedt](https://github.com/MarcoFernstaedt)
-
----
-
-I build reliable technical systems, support users clearly, and turn recurring problems into documented, repeatable solutions.
+- LinkedIn: [linkedin.com/in/marcofernstaedt](https://www.linkedin.com/in/marcofernstaedt)
+- Email: [fernstaedtmarco@gmail.com](mailto:fernstaedtmarco@gmail.com)
